@@ -1,10 +1,6 @@
 //************************************************ */
-//                   ESA-P4
-//      !!scanline-alg auf eigene Modell auf canvas-element + UML-Diagramm
-
-
+//                   ESA-P3
 //                   Computergrafik, BHT, WS2023
-//                   Marina Matyash
 //************************************************* */
 
 var canvas_1 = document.getElementById('myCanvas');
