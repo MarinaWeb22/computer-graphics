@@ -1,7 +1,6 @@
 //************************************************ */
-//                   ESA-P4
+//                   P4
 //                   Computergrafik, BHT, WS2023
-//                   Marina Matyash
 //************************************************* */
 
 //#1; define all vertices of the polygon
