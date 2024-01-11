@@ -57,7 +57,9 @@ cd /d D: = C Drive to D drive
 dir or ls(LS) = List all file and folder of current directory. "ls" is more clear to read
 mkdir mynewfolder = Create New Folder
 echo 			// Create file and put content Best*  shor: echo > asdfwe.txt (Create file only no content)
+touch
 cd "folderName" = To enter Folder for doing some task
+pwd			//print working directory
 clear = Clear Screen // "clear" in git bash
 
 
