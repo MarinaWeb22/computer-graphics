@@ -6,3 +6,4 @@ $ touch versControl2.txt
 $ git add versControl2.txt
 $ git commit -m "comment here"
 $ git push origin main
+$ git status
