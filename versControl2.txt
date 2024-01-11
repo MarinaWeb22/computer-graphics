@@ -7,6 +7,7 @@ $ git add versControl2.txt
 $ git commit -m "comment here"
 $ git push origin main
 $ git status
-$ git pull origin main (If a default branch is different than main (master: check in repo),
-                        you will need to specify the branch name
+$ git pull origin main   (If a default branch is different than main (master: check in repo),
+                          you will need to specify the branch name. If there is only one branch
+                          then the branch name can be ommited.)
 
