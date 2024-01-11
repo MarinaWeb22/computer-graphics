@@ -15,4 +15,7 @@ branch orange
 commit first
  $ git branch orange
  $ git checkout orange
+ $ git add <file>
+git commit -m "message"
+git push origin orange
 
