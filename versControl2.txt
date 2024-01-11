@@ -1,4 +1,7 @@
 second file was made. This is a second example
+$ cd
+$ git clone https://github.com/MarinaWeb22/computer-graphics.git
+$ cd computer-graphics
 $ touch versControl2.txt
 $ git add versControl2.txt
 $ git commit -m "comment here"
