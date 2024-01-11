@@ -1,5 +1,5 @@
 second file was made. This is a second example
-$ touch versControl2
-$ git add versControl2
+$ touch versControl2.txt
+$ git add versControl2.txt
 $ git commit -m "comment here"
 $ git push origin main
