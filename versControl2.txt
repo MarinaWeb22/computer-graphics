@@ -19,4 +19,4 @@ commit first
 git commit -m "message"
 git push origin orange
 
-this change was made in GitHub
+change orange on GitHub
