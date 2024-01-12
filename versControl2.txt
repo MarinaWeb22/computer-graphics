@@ -19,5 +19,9 @@ commit first
 git commit -m "message"
 git push origin orange
 
+<<<<<<< HEAD
 change-1 on local PC
 
+=======
+change orange on GitHub
+>>>>>>> 1ea5a4ad8385fc4f9c7f876de1fbe1a440df285d
