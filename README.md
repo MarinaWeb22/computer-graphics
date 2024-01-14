@@ -1,4 +1,4 @@
-this a a small training repository for software technik WS23 (BHT)
+this a a small training repository for software engineering (WS23 at BHT)
 
 
 
